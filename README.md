@@ -1,6 +1,12 @@
 # Data-Professional-Survey-Breakdown-
 Using PowerBI, created a visual representation of the overall position of professionals working in the data domain. The data for this analysis was gathered from the survey conducted by Alex the Analyst in 2022. The survey data was cleaned using the Power Query editor and a Power BI dashboard was created to visualize the data. The dashboard includes various charts and graphs, offering insights into survey results such as salary distribution, preferred programming language, and levels of satisfaction with both salary and work life balance.
 
+# Dashboard
+
+![dashboard](https://github.com/as16082023/Data-Professional-Survey-Breakdown-/assets/155312101/420c3dae-4f8a-402e-9cdd-30c576165eb6)
+
+
+
 # Key Insights:
 
 1. Total survey participants: 630
